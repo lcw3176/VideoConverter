@@ -1,0 +1,13 @@
+D:\project\Cs\VideoConverter\VideoConverter\bin\Debug\VideoConverter.exe.config
+D:\project\Cs\VideoConverter\VideoConverter\bin\Debug\VideoConverter.exe
+D:\project\Cs\VideoConverter\VideoConverter\bin\Debug\VideoConverter.pdb
+D:\project\Cs\VideoConverter\VideoConverter\bin\Debug\Newtonsoft.Json.dll
+D:\project\Cs\VideoConverter\VideoConverter\bin\Debug\Xabe.FFmpeg.dll
+D:\project\Cs\VideoConverter\VideoConverter\bin\Debug\Newtonsoft.Json.xml
+D:\project\Cs\VideoConverter\VideoConverter\bin\Debug\Xabe.FFmpeg.xml
+D:\project\Cs\VideoConverter\VideoConverter\obj\Debug\VideoConverter.Form1.resources
+D:\project\Cs\VideoConverter\VideoConverter\obj\Debug\VideoConverter.Properties.Resources.resources
+D:\project\Cs\VideoConverter\VideoConverter\obj\Debug\VideoConverter.csproj.GenerateResource.cache
+D:\project\Cs\VideoConverter\VideoConverter\obj\Debug\VideoConverter.csproj.CopyComplete
+D:\project\Cs\VideoConverter\VideoConverter\obj\Debug\VideoConverter.exe
+D:\project\Cs\VideoConverter\VideoConverter\obj\Debug\VideoConverter.pdb

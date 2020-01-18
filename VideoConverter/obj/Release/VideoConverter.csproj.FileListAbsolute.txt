@@ -1,0 +1,9 @@
+C:\Users\THE-LEE\Desktop\VideoConverter.exe.config
+C:\Users\THE-LEE\Desktop\VideoConverter.exe
+C:\Users\THE-LEE\Desktop\VideoConverter.pdb
+D:\project\Cs\VideoConverter\VideoConverter\obj\Release\VideoConverter.Form1.resources
+D:\project\Cs\VideoConverter\VideoConverter\obj\Release\VideoConverter.Properties.Resources.resources
+D:\project\Cs\VideoConverter\VideoConverter\obj\Release\VideoConverter.csproj.GenerateResource.cache
+D:\project\Cs\VideoConverter\VideoConverter\obj\Release\VideoConverter.csproj.CopyComplete
+D:\project\Cs\VideoConverter\VideoConverter\obj\Release\VideoConverter.exe
+D:\project\Cs\VideoConverter\VideoConverter\obj\Release\VideoConverter.pdb
